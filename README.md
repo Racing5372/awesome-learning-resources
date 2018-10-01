@@ -77,6 +77,8 @@
 ## Markdown
 
 - [Mastering Markdown](https://masteringmarkdown.com/)
+- [Markdown Tutorial](https://www.markdowntutorial.com/)
+- [Learn Markdown in Y minutes](https://learnxinyminutes.com/docs/markdown/)
 
 ## NodeJS
 
